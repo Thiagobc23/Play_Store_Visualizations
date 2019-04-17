@@ -8,5 +8,5 @@ This was a college project on visualization, I used this [dataset](https://www.k
 ![Imgur](https://i.imgur.com/52PYma2.png)
   
   
-## Some more analytical views of a chosen category
+## A more analytical views of a chosen category
 ![Imgur](https://i.imgur.com/ZCCDg71.png)
